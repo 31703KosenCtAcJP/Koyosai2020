@@ -4,7 +4,8 @@ p1
 3 blue green
 4 white white
 p2
-11 #ff00ff    #00ff00
-12 #f0f0f0,,#0f0f0f
-13 123456,abcdef
-14 red  ReD
+1 #ff00ff_    #00ff00_
+2 #f0f0f0_,,#0f0f0f_
+3 123456,abcdef_
+4 red_  ReD
+5 orange violet
